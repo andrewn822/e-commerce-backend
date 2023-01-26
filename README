@@ -20,6 +20,10 @@ The purpose of this application is to have a database of categories, products, a
     To install-  1) Clone the repository  2) install npm dependencies with npm -i  3) run the index.js file with node index.js  
 ## Usage
     To use the application, after installation run it in terminal with node index.js. From there follow the on screen prompts.
+
+## Video Walkthrough
+    https://drive.google.com/file/d/1Ww60OXPrLxIB0ZAFB5TFM-6woeidsCW_/view
+
 ## License
 **Note: This project is covered under MIT**
 
